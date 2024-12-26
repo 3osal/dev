@@ -6,7 +6,7 @@ import Skills from "../skills/Skills";
 
 const Landing = () => {
   return (
-    <div className="flex items-center justify-center py-20 bg-red-500">
+    <div className="flex items-center justify-center py-20">
       <div className="container">
         <div className="flex flex-col items-center justify-between gap-10 lg:flex-row">
           {/* LEFT */}
