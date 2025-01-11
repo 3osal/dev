@@ -13,7 +13,7 @@ const Landing = () => {
           <div>
             <Image
               className="rounded-full w-[200px] h-[200px] lg:w-[1000px] lg:h-[600px] lg:rounded-xl"
-              src="/dark.jpg"
+              src="/profile.png"
               alt="photo"
               width={1000}
               height={600}
